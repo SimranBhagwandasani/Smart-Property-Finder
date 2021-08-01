@@ -1,0 +1,3 @@
+# Real-Estate-Price-Prediction-Model
+
+A dummy data science project for real estate price prediction. A model has been built using sklearn and linear regression using Bangalore home prices dataset. A Python Flask server uses the saved model to serve http requests. The website is built in Html, Css and Javascript that allows the user to enter home square ft area, bedrooms etc and it will call Python flask server to retrieve the predicted price. During the model building I have tried to use almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.
